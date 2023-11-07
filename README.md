@@ -1,4 +1,4 @@
-### Hi there 👋 *MY NAME IS PETER KINYANJUI NDUNG'U*
+<h1 style="color:blue;">### Hi there 👋 *MY NAME IS PETER KINYANJUI NDUNG'U*</h1>
 ### *SOFTWARE ENGINEERING STUDENT*
 
 I am a software engineering student at ALX Africa, equipped with knowledge in C, Python, JavaScript, HTML, CSS, and MySQL. In my field of study, I am continually honing my skills to provide innovative solutions through technology. My interests lie in DevOps, Artificial Intelligence, and Machine Learning.
